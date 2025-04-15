@@ -1,0 +1,12 @@
+# Core Data Processing
+numpy==1.24.3
+pandas==2.0.3
+
+# Machine Learning & Clustering
+scikit-learn==1.3.0  # Includes KMeans, PCA, StandardScaler
+tensorflow==2.12.0   # Includes Keras
+keras==2.12.0        # Explicit Keras import
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
